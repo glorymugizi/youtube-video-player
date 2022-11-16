@@ -119,3 +119,6 @@ img {
   width: 148px;
   height: 70px;
 }
+.hidden {
+  display: none;
+}
